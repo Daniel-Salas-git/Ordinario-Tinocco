@@ -439,10 +439,21 @@ ul { list-style: none; }
   width: 260px;
   height: auto;
   flex-shrink: 0;
-  align-self: flex-end;
-  position: relative;
+  position: absolute;
+  bottom: 0;
+  right: 8px;
   z-index: 2;
   mix-blend-mode: lighten;
+}
+
+.hero-person-img {
+  width: 260px;
+  height: auto;
+  flex-shrink: 0;
+  position: absolute;
+  bottom: 0;
+  right: 8px;
+  z-index: 3;
 }
 
 .slider-dots {
