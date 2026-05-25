@@ -791,8 +791,7 @@ ul { list-style: none; }
 .sidebar-right {
   width: 200px;
   flex-shrink: 0;
-  background: #f8f8f8;
-  border-left: 2px solid #ddd;
+  background: #aa3838; background: linear-gradient(180deg, #8b0000 0%, #6b0000 60%, #500000 100%);border-left: 2px solid #ddd;
   display: flex;
   flex-direction: column;
 }
@@ -807,6 +806,7 @@ ul { list-style: none; }
 .right-text {
   padding: 10px 10px 6px;
   font-size: 10px;
+  background-color: #f8f8f8;
   color: #444;
   line-height: 1.5;
   display: flex;
