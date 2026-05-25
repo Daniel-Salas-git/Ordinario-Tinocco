@@ -436,7 +436,7 @@ ul { list-style: none; }
 }
 
 .server-img {
-  width: 270px;
+  width: 260px;
   height: auto;
   flex-shrink: 0;
   align-self: flex-end;
