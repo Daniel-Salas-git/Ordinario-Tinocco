@@ -435,7 +435,7 @@ ul { list-style: none; }
   background: linear-gradient(180deg, #f8f8f8 0%, #d0d0d0 100%);
 }
 
-.hero-person-img {
+.server-img {
   width: 260px;
   height: auto;
   flex-shrink: 0;
