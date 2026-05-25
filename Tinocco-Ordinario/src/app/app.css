@@ -310,6 +310,7 @@ ul { list-style: none; }
 
 .promo-left-body {
   display: flex;
+  flex-direction: row-reverse;
   gap: 6px;
   padding: 8px;
   align-items: flex-start;
